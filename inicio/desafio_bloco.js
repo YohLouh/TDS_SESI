@@ -1,4 +1,4 @@
-/*
+0/*
     Desafio: Criar dois blocos de código.
     Primeiro imprime na tela os números pares de 0 a 10.
     Segundo imprime na tela os ímpares.
