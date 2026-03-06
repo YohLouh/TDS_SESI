@@ -13,4 +13,4 @@ console.log(precoFinal);
 
 nome = "Caneta BIC";
 console.log(nome);
-// "var" pode mudar constantemente!
+// "var" pode mudar constantemente.
