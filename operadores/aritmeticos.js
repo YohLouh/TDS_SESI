@@ -7,7 +7,6 @@ console.log(10 % 5); //resto da divisão - módulo
 
 
 // valores variáveis
-
 let a = 100;
 let b = 50;
 
