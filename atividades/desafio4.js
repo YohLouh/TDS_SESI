@@ -1,10 +1,13 @@
-let preco = 150;
+let preco = 200;
 let final = preco > 100 ? preco - (preco * 0.10) : preco;
 
-console.log(final);
+console.log(`O valor final será de: ${final}`);
 
 /*  
-    Como o desconto será de 0,10 (10%), será 
+    Aplicação de desconto para valores acima
+    de 100, manntendo caso seja menor.
+    Como o desconto seria de 0,10 (10%), será 
     diminuido esse tanto do valor original, 
-    nesse caso 150, e ficará igual a 135!
+    nesse caso 200, e o valor final ficará
+    igual a 180!
 */
