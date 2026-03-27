@@ -1,2 +1,3 @@
-let estaLigado =! true;
+let estaLigado = true;
 console.log(estaLigado);
+console.log(!estaLigado);
