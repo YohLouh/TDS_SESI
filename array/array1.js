@@ -5,7 +5,7 @@ console.log(frutas[1]);
 console.log(frutas[2]);
 console.log(frutas[3]);
 console.log(frutas);
-console.log(frutas.length);
+console.log(frutas.length); // Quantidade de índices
 
 frutas[4] = "Morango";
 console.log(frutas);
