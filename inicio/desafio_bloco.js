@@ -14,3 +14,10 @@
     console.log("Números ímpares:");
     console.log("1\n3\n5\n7\n9")
 }
+
+// Outra forma:
+var pares = "0, 2, 4, 6, 8, 10";
+console.log(pares);
+
+var impares = "1, 3, 5, 7, 9";
+console.log(impares);
